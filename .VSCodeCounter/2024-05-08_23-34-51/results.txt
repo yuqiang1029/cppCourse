@@ -1,0 +1,58 @@
+Date : 2024-05-08 23:34:51
+Directory : d:\GitHub\cppCourse
+Total : 31 files,  806 codes, 249 comments, 171 blanks, all 1226 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C++      |         29 |        792 |        249 |        170 |      1,211 |
+| Markdown |          2 |         14 |          0 |          1 |         15 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                             | files      | code       | comment    | blank      | total      |
++--------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                |         31 |        806 |        249 |        171 |      1,226 |
+| . (Files)                                        |          1 |          2 |          0 |          1 |          3 |
+| src                                              |         30 |        804 |        249 |        170 |      1,223 |
++--------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                         | language | code       | comment    | blank      | total      |
++--------------------------------------------------+----------+------------+------------+------------+------------+
+| d:\GitHub\cppCourse\README.md                    | Markdown |          2 |          0 |          1 |          3 |
+| d:\GitHub\cppCourse\src\0423作业.cpp               | C++      |         22 |          1 |          5 |         28 |
+| d:\GitHub\cppCourse\src\0427.cpp                 | C++      |         69 |         10 |          4 |         83 |
+| d:\GitHub\cppCourse\src\24点.cpp                  | C++      |         34 |         67 |         11 |        112 |
+| d:\GitHub\cppCourse\src\2长2宽.cpp                 | C++      |         10 |          0 |          4 |         14 |
+| d:\GitHub\cppCourse\src\3plus.cpp                | C++      |         17 |          1 |          3 |         21 |
+| d:\GitHub\cppCourse\src\4.23.cpp                 | C++      |         14 |          9 |          3 |         26 |
+| d:\GitHub\cppCourse\src\BIG.cpp                  | C++      |         18 |          0 |          1 |         19 |
+| d:\GitHub\cppCourse\src\BIGnew.cpp               | C++      |         16 |          0 |          4 |         20 |
+| d:\GitHub\cppCourse\src\Cpp基本结构.cpp              | C++      |          5 |          0 |          4 |          9 |
+| d:\GitHub\cppCourse\src\daXiaoXie.cpp            | C++      |         12 |          0 |          1 |         13 |
+| d:\GitHub\cppCourse\src\dynamic.cpp              | C++      |         10 |          0 |          1 |         11 |
+| d:\GitHub\cppCourse\src\geShiBaiHe.cpp           | C++      |          5 |          1 |          2 |          8 |
+| d:\GitHub\cppCourse\src\gif.cpp                  | C++      |         16 |          0 |          2 |         18 |
+| d:\GitHub\cppCourse\src\guess.cpp                | C++      |         22 |          8 |          3 |         33 |
+| d:\GitHub\cppCourse\src\hw.cpp                   | C++      |         30 |          4 |         14 |         48 |
+| d:\GitHub\cppCourse\src\point24.h                | C++      |        195 |         88 |         62 |        345 |
+| d:\GitHub\cppCourse\src\prePlusAndPostPlus.cpp   | C++      |         12 |          0 |          3 |         15 |
+| d:\GitHub\cppCourse\src\qiulianggezuidadeshu.cpp | C++      |         41 |         13 |          2 |         56 |
+| d:\GitHub\cppCourse\src\swap.cpp                 | C++      |         17 |          2 |          3 |         22 |
+| d:\GitHub\cppCourse\src\zuidalianggeshu.cpp      | C++      |         43 |          0 |          2 |         45 |
+| d:\GitHub\cppCourse\src\zyq.cpp                  | C++      |          5 |          0 |          4 |          9 |
+| d:\GitHub\cppCourse\src\zyq1.cpp                 | C++      |         49 |          7 |         10 |         66 |
+| d:\GitHub\cppCourse\src\zyq2.cpp                 | C++      |         16 |          0 |          6 |         22 |
+| d:\GitHub\cppCourse\src\zyq3.cpp                 | C++      |         25 |          0 |          4 |         29 |
+| d:\GitHub\cppCourse\src\作业.md                    | Markdown |         12 |          0 |          0 |         12 |
+| d:\GitHub\cppCourse\src\合格与不合格.cpp               | C++      |         25 |          1 |          4 |         30 |
+| d:\GitHub\cppCourse\src\基本结构.cpp                 | C++      |          5 |          0 |          1 |          6 |
+| d:\GitHub\cppCourse\src\未命名1.cpp                 | C++      |         13 |          0 |          3 |         16 |
+| d:\GitHub\cppCourse\src\查找和是5的数.cpp              | C++      |         29 |         35 |          2 |         66 |
+| d:\GitHub\cppCourse\src\猴子猴子吃桃.cpp               | C++      |         17 |          2 |          2 |         21 |
+| Total                                            |          |        806 |        249 |        171 |      1,226 |
++--------------------------------------------------+----------+------------+------------+------------+------------+

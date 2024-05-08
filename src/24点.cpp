@@ -43,7 +43,7 @@ int main() {
 
 	}
 //	if(a>13 | b>13 | c>13 | d>13){
-//		cout<<"Êä´óÁË"<<endl;
+//		cout<<"è¾“å¤§äº†"<<endl;
 //	}
 //
 //	if(a*b==24){
@@ -52,7 +52,7 @@ int main() {
 //	}else if(a+b==24){
 //		cout<<"a+b="<<a+b;
 //	}else{
-//		cout<<"´Õ²»ÁË"<<endl;
+//		cout<<"å‡‘ä¸äº†"<<endl;
 //	}
 	return 0;
 }
@@ -64,32 +64,32 @@ int main() {
 //
 //int main(){
 //
-//    BOOL opened; // ¼ÆËãÆ÷ÊÇ·ñÒÑ¾­³É¹¦´ò¿ªµÄ±êÖ¾
-//    STARTUPINFO si ={sizeof(si)}; // ¼ÆËãÆ÷Æô¶¯ĞÅÏ¢
-//    PROCESS_INFORMATION pi; // ¼ÆËãÆ÷½ø³ÌĞÅÏ¢
-//    HWND h1 = NULL; // ¼ÆËãÆ÷´°¿ÚÖ¸Õë
+//    BOOL opened; // è®¡ç®—å™¨æ˜¯å¦å·²ç»æˆåŠŸæ‰“å¼€çš„æ ‡å¿—
+//    STARTUPINFO si ={sizeof(si)}; // è®¡ç®—å™¨å¯åŠ¨ä¿¡æ¯
+//    PROCESS_INFORMATION pi; // è®¡ç®—å™¨è¿›ç¨‹ä¿¡æ¯
+//    HWND h1 = NULL; // è®¡ç®—å™¨çª—å£æŒ‡é’ˆ
 //    int i=0;
 //    BOOL postMsgResult;
 //
 //
 //
-//    // ´ò¿ª¼ÆËãÆ÷
+//    // æ‰“å¼€è®¡ç®—å™¨
 //    opened = CreateProcess(NULL, "calc.exe", NULL, NULL, FALSE, 0, NULL,NULL, &si, &pi);
 //    if ( !opened ) {
-//        printf("ÎŞ·¨´ò¿ª¼ÆËãÆ÷£¬´íÎóÂë = %d\n", GetLastError());
+//        printf("æ— æ³•æ‰“å¼€è®¡ç®—å™¨ï¼Œé”™è¯¯ç  = %d\n", GetLastError());
 //        return 1;
 //    }
 //
-//    // ÕÒµ½¸Ã´°¿Ú
+//    // æ‰¾åˆ°è¯¥çª—å£
 //    while ( h1 == NULL && i < 3 ){
-//         h1 = FindWindow(NULL, "¼ÆËãÆ÷");
+//         h1 = FindWindow(NULL, "è®¡ç®—å™¨");
 //         if ( h1 == NULL ) {
 //            i ++;
 //            Sleep(1000);
 //         }
 //    }
 //    if ( h1 == NULL ) {
-//        printf("ÕÒ²»µ½ÒÑ¾­´ò¿ªµÄ¼ÆËãÆ÷£¬´íÎóÂë = %d\n", GetLastError());
+//        printf("æ‰¾ä¸åˆ°å·²ç»æ‰“å¼€çš„è®¡ç®—å™¨ï¼Œé”™è¯¯ç  = %d\n", GetLastError());
 //        return 1;
 //    }
 //    for(i = 0; i < 3; i++){
