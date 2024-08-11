@@ -42,6 +42,9 @@ p2:
 	cout<<u/10%10<<endl;
 	cout<<u/10/10%10<<endl;
 	
+	int a=4;
+	int h=8;
+	cout<<a*h*1/2<<endl;
 	
 	return 0;
 }
